@@ -17,7 +17,7 @@
   },
   {
     "id": 5,
-    "image": "https://images.pexels.com/photos/773594/pexels-photo-773594.jpeg?auto=compress&cs=tinysrgb&h=350"
+    "image": "https://images.pexels.com/photos/33688/delicate-arch-night-stars-landscape.jpg?auto=compress&cs=tinysrgb&h=350"
   },
   {
     "id": 6,
@@ -31,10 +31,5 @@
   {
     "id": 8,
     "image": "https://images.pexels.com/photos/1166209/pexels-photo-1166209.jpeg?auto=compress&cs=tinysrgb&h=350"
-  },
-
-  {
-    "id": 9,
-    "image": "https://images.pexels.com/photos/33688/delicate-arch-night-stars-landscape.jpg?auto=compress&cs=tinysrgb&h=350"
   }
 ]

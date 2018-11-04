@@ -3,8 +3,11 @@
   font-family: sans-serif;
 }
 
-html, body, #root {
+html,
+body,
+#root {
   padding: 0;
   margin: 0;
   height: 100%;
+  background-image: url(https://images.pexels.com/photos/459319/pexels-photo-459319.jpeg?auto=compress);
 }
