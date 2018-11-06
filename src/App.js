@@ -11,7 +11,7 @@ class App extends Component {
     cards,
     clickedImg: [],
     score: 0,
-    goal: 9,
+    goal: 8,
     status: ''
   };
 
@@ -29,9 +29,9 @@ class App extends Component {
     } else {
       clickedImg.push(id);
 
-      if (clickedImg.length === 9) {
+      if (clickedImg.length === 8) {
         this.setState({
-          score: 9,
+          score: 8,
           status: 'You Won! Click to play again!',
           clickedImg: []
         });
@@ -60,7 +60,7 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">The Clicky Game</h1>
         </header>
-        <Score total={this.state.score} goal={9} status={this.state.status} />
+        <Score total={this.state.score} goal={8} status={this.state.status} />
         <Wrapper>
           {this.state.cards.map(card => (
             <MemCard
