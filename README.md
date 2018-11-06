@@ -2,7 +2,7 @@
 
 ### Instructions
 
-How good is your memory? In this game it will appear 9 images. It will keep the score for each different image you have clicked. If you have clicked an image twice you will lose. Good luck!
+How good is your memory? In this game it will appear 8 images. It will keep the score for each different image you have clicked. If you have clicked an image twice you will lose. Good luck!
 
 ### Initial Screen
 
